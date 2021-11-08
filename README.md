@@ -1,4 +1,5 @@
-# cmf1_golang
+# f1_golang
 
 Read Codemaster F1 telemetry data with go!
-# f1_golang
+
+todo: post examples
